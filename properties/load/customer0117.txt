@@ -1,0 +1,8 @@
+customerId,profiles,invoicePeriod,name,lastName,active
+12345,1-2,7,Jose,Lachira,true
+12346,1-2,9,Selena elena,Gomez Bolaños,false
+12347,1-2,11,Jose,Lachira,true
+12348,1-2,13,Jose,Lachira,true
+12349,1-2,18,Jose,Lachira,true
+12350,1-2,20,Jose,Lachira,true
+

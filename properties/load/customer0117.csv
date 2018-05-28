@@ -1,0 +1,7 @@
+customerId,profiles,invoicePeriod,name,lastName,active
+8765465468,1*2,7,Jose,Cóndor,true
+8765465469,1*2,9,Roberto,Bolaños,true
+8765465470,1*2,11,Ramon,Canción,true
+8765465471,1*2,13,Mia,Perez,true
+8765465472,1*2,18,Millet,Jacinta,true
+8765465473,1*2,20,Luis,Cuella,false

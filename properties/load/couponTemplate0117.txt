@@ -1,0 +1,2 @@
+{"profile":"2","nominal":true,"ammount":50,"redeemable":{"businessType":"7230"},"minimumTransactionAmmount":100,"maximumDiscountAmmount":200,"targetId":"1","quantity":1}
+{"profile":"1","nominal":false,"ammount":10,"redeemable":{"businessType":"7230"},"minimumTransactionAmmount":100,"maximumDiscountAmmount":200,"targetId":"1","quantity":2}

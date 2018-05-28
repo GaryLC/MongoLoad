@@ -1,0 +1,2 @@
+profile,nominal,ammount,redeemable/businessType,minimumTransactionAmmount,maximumDiscountAmmount,targetId,quantity
+1,false,10,7230,100,200,1,2
